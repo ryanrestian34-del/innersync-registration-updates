@@ -1,0 +1,11 @@
+{
+  "product": "Innersync Registration Portal",
+  "latest_version": "1.0.1",
+  "release_date": "2026-07-20",
+  "mandatory": false,
+  "changelog": [
+    "Bug Fixed"
+  ],
+  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.1.zip",
+  "sha256": "92cfb424ad9ef18cf08cf4b28c88a59ff217dad086d3dee03c710c5475f942cd"
+}
