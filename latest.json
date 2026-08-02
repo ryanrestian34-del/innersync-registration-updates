@@ -7,6 +7,6 @@
     "Fix bug",
     "Dashboard Update"
   ],
-  "package_url": "https://github.com/ryanrestian34-del/innersync-registration-updates/releases/download/v1.0.2/innersync_update_1.0.2.zip",
-  "sha256": "ff2030dacfbc58fc2d424fad3301685d796d38dc97a5cbcf966e5a6a2f9d8720"
+  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.2.zip",
+  "sha256": "55b9a318fc209e14e419643776122839fb6700c091fc150e7317a7752423e50d"
 }
