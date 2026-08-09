@@ -1,12 +1,14 @@
 {
   "product": "Innersync Registration Portal",
   "latest_version": "1.0.2",
-  "release_date": "2026-08-02",
+  "release_date": "2026-08-09",
   "mandatory": false,
   "changelog": [
-    "Fix bug",
-    "Dashboard Update"
+    "Fixed Bug",
+    "Fixed API Log",
+    "Fixed Self registration",
+    "Add Device"
   ],
   "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.2.zip",
-  "sha256": "55b9a318fc209e14e419643776122839fb6700c091fc150e7317a7752423e50d"
+  "sha256": "05551d501c6fae347a343604cae5a7390bd79617e0f703daf409879126683284"
 }
