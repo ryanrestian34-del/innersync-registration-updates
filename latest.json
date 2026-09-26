@@ -1,11 +1,15 @@
 {
   "product": "Innersync Registration Portal",
-  "latest_version": "1.0.3",
-  "release_date": "2026-08-09",
+  "latest_version": "1.0.4",
+  "release_date": "2026-09-26",
   "mandatory": false,
   "changelog": [
-    "fix bug"
+    "Fix Bugs",
+    "Update Self Registration Features",
+    "Fix Whatsapp Features",
+    "Add Monitoring Pengiriman email dan whastapp",
+    "Update Page"
   ],
-  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.3.zip",
-  "sha256": "ce061eab5a0c88427b23d37e577ce96b689526eecbe30a195d2506de8893da45"
+  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.4.zip",
+  "sha256": "e376264e4f376f5644dde9a9109215d3aec22b0277df04995f044ecec8869526"
 }
