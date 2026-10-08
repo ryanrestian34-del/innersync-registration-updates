@@ -1,13 +1,13 @@
 {
   "product": "Innersync Registration Portal",
-  "latest_version": "1.0.6",
-  "release_date": "2026-10-07",
+  "latest_version": "1.0.7",
+  "release_date": "2026-10-09",
   "mandatory": false,
   "changelog": [
-    "Menambahkan indikator jumlah request pada Invitation List dan Extension Approval",
-    "Badge request berkedip sampai persetujuan BM selesai",
-    "Menambahkan informasi sisa waktu visitor aktif dengan pembaruan setiap 30 detik"
+    "Integrasi Innersync WhatsApp Gateway pusat",
+    "Pengaturan customer tanpa token provider",
+    "Kredit dan order top-up WhatsApp terpusat"
   ],
-  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.6.zip",
-  "sha256": "bc538b3e019c5ed76b574944bdffe6e2ed5ea713230c7664f56a04216be3b9eb"
+  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.7.zip",
+  "sha256": "91734dfa43e0ac1094ca094595f37c88845d997d4ebac2f1ea1138bb301df1d5"
 }
