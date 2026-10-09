@@ -1,12 +1,13 @@
 {
   "product": "Innersync Registration Portal",
-  "latest_version": "1.0.8",
+  "latest_version": "1.0.9",
   "release_date": "2026-10-09",
   "mandatory": false,
   "changelog": [
-    "Perbaikan penyimpanan mode Innersync WhatsApp Service",
-    "Perbaikan kompatibilitas tipe parameter PostgreSQL"
+    "Perbaikan timeout transaksi Innerrange check-in dan perpanjangan",
+    "Operasi tulis Innerrange menggunakan satu timeout penuh 15 detik",
+    "Health check Innerrange tetap memakai retry terbatas tanpa menggandakan transaksi"
   ],
-  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.8.zip",
-  "sha256": "70ca0215b45cad4cd25234a663be87cdf00b072cfcf3f3bea74e9686a4636a60"
+  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.9.zip",
+  "sha256": "d06404b944cadcd2f0dd34a5a2ecddaf9be91df09d55b84680f376e9dc9fbaea"
 }
