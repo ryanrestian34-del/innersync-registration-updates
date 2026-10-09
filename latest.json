@@ -1,13 +1,13 @@
 {
   "product": "Innersync Registration Portal",
-  "latest_version": "1.0.10",
+  "latest_version": "1.0.11",
   "release_date": "2026-10-09",
   "mandatory": false,
   "changelog": [
-    "Perbaikan timeout transaksi Innerrange check-in dan perpanjangan",
-    "Operasi tulis Innerrange menggunakan satu timeout penuh 15 detik",
-    "Updater membaca manifest GitHub melalui Contents API untuk menghindari cache versi lama"
+    "Perbaikan registrasi akun publik di VPS yang sebelumnya dianggap session expired",
+    "Endpoint registrasi publik dipisahkan dari Account Management",
+    "Role registrasi publik selalu OPERATOR dan tetap menunggu persetujuan admin"
   ],
-  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.10.zip",
-  "sha256": "192e5a9eda9ca366c6ad68b88b43605aba01c2657c4a10ddf9e9f35ace5a5928"
+  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.11.zip",
+  "sha256": "67c2d5d7ebd4f79991a9a2fe333d8accbf67b255396e9ba0a6c7147ef036966c"
 }
