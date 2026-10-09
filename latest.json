@@ -1,13 +1,13 @@
 {
   "product": "Innersync Registration Portal",
-  "latest_version": "1.0.9",
+  "latest_version": "1.0.10",
   "release_date": "2026-10-09",
   "mandatory": false,
   "changelog": [
     "Perbaikan timeout transaksi Innerrange check-in dan perpanjangan",
     "Operasi tulis Innerrange menggunakan satu timeout penuh 15 detik",
-    "Health check Innerrange tetap memakai retry terbatas tanpa menggandakan transaksi"
+    "Updater membaca manifest GitHub melalui Contents API untuk menghindari cache versi lama"
   ],
-  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.9.zip",
-  "sha256": "d06404b944cadcd2f0dd34a5a2ecddaf9be91df09d55b84680f376e9dc9fbaea"
+  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.10.zip",
+  "sha256": "192e5a9eda9ca366c6ad68b88b43605aba01c2657c4a10ddf9e9f35ace5a5928"
 }
