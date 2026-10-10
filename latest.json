@@ -1,14 +1,14 @@
 {
   "product": "Innersync Registration Portal",
-  "latest_version": "1.0.13",
+  "latest_version": "1.0.14",
   "release_date": "2026-10-10",
   "mandatory": false,
   "changelog": [
+    "Updater otomatis beralih ke GitHub Raw saat GitHub API timeout atau tidak dapat diakses",
+    "Pesan kegagalan koneksi update menampilkan penyebab jaringan yang lebih jelas",
     "Activity Logs mencatat perubahan dan tindakan user secara menyeluruh",
-    "Kolom Activity Logs dapat diubah lebarnya dengan drag dan tersimpan per browser",
-    "Indikator drag kolom tersembunyi saat tidak digunakan",
-    "Klik dua kali pembatas kolom mengembalikan lebar awal"
+    "Kolom Activity Logs dapat diubah lebarnya dengan drag dan tersimpan per browser"
   ],
-  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.13.zip",
-  "sha256": "72e6afcd879d8a3603f01d826b6a04eedb87228dfcb3ba30f98b5029eabb8678"
+  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.14.zip",
+  "sha256": "c17f871eb928c233910982ec1f73ac0e516a3e8c6ac5ecc748b0293b8ecf1f8d"
 }
