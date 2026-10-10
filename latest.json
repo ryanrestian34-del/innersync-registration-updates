@@ -1,13 +1,14 @@
 {
   "product": "Innersync Registration Portal",
-  "latest_version": "1.0.11",
-  "release_date": "2026-10-09",
+  "latest_version": "1.0.13",
+  "release_date": "2026-10-10",
   "mandatory": false,
   "changelog": [
-    "Perbaikan registrasi akun publik di VPS yang sebelumnya dianggap session expired",
-    "Endpoint registrasi publik dipisahkan dari Account Management",
-    "Role registrasi publik selalu OPERATOR dan tetap menunggu persetujuan admin"
+    "Activity Logs mencatat perubahan dan tindakan user secara menyeluruh",
+    "Kolom Activity Logs dapat diubah lebarnya dengan drag dan tersimpan per browser",
+    "Indikator drag kolom tersembunyi saat tidak digunakan",
+    "Klik dua kali pembatas kolom mengembalikan lebar awal"
   ],
-  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.11.zip",
-  "sha256": "67c2d5d7ebd4f79991a9a2fe333d8accbf67b255396e9ba0a6c7147ef036966c"
+  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.13.zip",
+  "sha256": "72e6afcd879d8a3603f01d826b6a04eedb87228dfcb3ba30f98b5029eabb8678"
 }
