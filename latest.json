@@ -1,14 +1,14 @@
 {
   "product": "Innersync Registration Portal",
-  "latest_version": "1.0.14",
+  "latest_version": "1.0.15",
   "release_date": "2026-10-10",
   "mandatory": false,
   "changelog": [
-    "Updater otomatis beralih ke GitHub Raw saat GitHub API timeout atau tidak dapat diakses",
-    "Pesan kegagalan koneksi update menampilkan penyebab jaringan yang lebih jelas",
-    "Activity Logs mencatat perubahan dan tindakan user secara menyeluruh",
-    "Kolom Activity Logs dapat diubah lebarnya dengan drag dan tersimpan per browser"
+    "Perbaikan tampilan informasi versi software",
+    "Innersync menampilkan WhatsApp Channel primary dan jumlah backup",
+    "Status channel khusus nonaktif ditampilkan dengan jelas",
+    "Kompatibilitas dengan Innersync WhatsApp Gateway 1.1.0"
   ],
-  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.14.zip",
-  "sha256": "c17f871eb928c233910982ec1f73ac0e516a3e8c6ac5ecc748b0293b8ecf1f8d"
+  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.15.zip",
+  "sha256": "4ead51f173e67bad2b8e4c5bc3e25b9d78a83c8ba99b7bd41eb4d50ea8bde82e"
 }
