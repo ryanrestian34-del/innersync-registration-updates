@@ -1,15 +1,13 @@
 {
   "product": "Innersync Registration Portal",
-  "latest_version": "1.0.19",
+  "latest_version": "1.0.20",
   "release_date": "2026-10-11",
   "mandatory": false,
   "changelog": [
-    "Central License Service activation",
-    "Persistent Installation ID with Ed25519 identity",
-    "Self-service server replacement",
-    "Automatic signed certificate refresh",
-    "Legacy license compatibility"
+    "Legacy License Key disembunyikan dari License Manager",
+    "Tombol Ajukan Top-up pada warning kredit membuka bagian order Top-up",
+    "Popup warning tidak menutupi halaman License Manager saat proses Top-up"
   ],
-  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.19.zip",
-  "sha256": "32ed7ca8f94e5fa1a288c54cdccd46983858b96f8f650927c033f9cfc4a1927c"
+  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.20.zip",
+  "sha256": "c23f52a53ecad8ac06aff5bce8b5c2717458773e41f90786bbc3a40b3b2149e4"
 }
