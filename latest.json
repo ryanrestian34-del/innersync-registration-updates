@@ -1,12 +1,12 @@
 {
   "product": "Innersync Registration Portal",
-  "latest_version": "1.0.17",
+  "latest_version": "1.0.18",
   "release_date": "2026-10-11",
   "mandatory": false,
   "changelog": [
-    "Perbaikan warning kredit saat saldo tepat di nilai threshold",
-    "Pemeriksaan warning kredit WhatsApp dipercepat menjadi setiap 30 detik"
+    "Tombol Ajukan Top-up dan Acknowledge memiliki hover, focus, dan pressed state yang lebih jelas",
+    "Peringatan kredit WhatsApp tetap responsif pada desktop dan mobile"
   ],
-  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.17.zip",
-  "sha256": "af404d58081878e968bf25127038c69912a3208632555054de6a164ee1441e05"
+  "package_url": "https://raw.githubusercontent.com/ryanrestian34-del/innersync-registration-updates/main/updates/innersync_update_1.0.18.zip",
+  "sha256": "d16240b8cc930784bb4882bbaf2d2d5d4abd6580db221112b5201a0efb622803"
 }
